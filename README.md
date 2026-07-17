@@ -1,17 +1,12 @@
 <h1 align="center">Hi, I'm Rameen 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8AFF80&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Enthusiast;Front-End+Developer;Cybersecurity+Learner;Final-Year+CS+Student+%40+FJWU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8AFF80&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;AI+%2F+ML+Learner;Front-End+Developer;Final-Year+CS+Student+%40+FJWU" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://rameenzia.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://github.com/Rameenzia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rameenzia&style=flat-square&color=8AFF80" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Rameenzia?style=flat-square&color=8AFF80&label=Followers" alt="Followers" />
 </p>
 
 ---
@@ -23,20 +18,26 @@ name: Rameen
 role: Final-year BS Computer Science student
 university: Fatima Jinnah Women University (FJWU), Rawalpindi
 graduation: 2027
-focus_areas: [Artificial Intelligence, Front-End Development, Cybersecurity]
-currently_seeking: Internship opportunities in AI / Front-End / Security
+focus_areas: [Cybersecurity, Artificial Intelligence, Front-End Development]
+currently_seeking: Internship opportunities in Cybersecurity / AI / Front-End
 ```
 
-- 🔭 Currently working on projects spanning **LLM benchmarking**, **full-stack web apps**, and **real-time systems**
-- 🌱 Deepening my knowledge of **React**, **cybersecurity fundamentals**, and applied **NLP**
-- 📄 Certified in **AI For Everyone** (DeepLearning.AI, Coursera) & **Cybersecurity Fundamentals**
-- 💼 Open to **internships** — AI/ML, front-end development, cybersecurity
+- 🔐 Primary interest in **cybersecurity** — currently deepening my foundations through hands-on coursework and certifications
+- 🔭 Also working on projects spanning **LLM benchmarking**, **full-stack web apps**, and **real-time systems**
+- 🌱 Learning **network security fundamentals**, **React**, and applied **NLP**
+- 📄 Certified in **Introduction to Cybersecurity Fundamentals** (Coursera) & **AI For Everyone** (DeepLearning.AI, Coursera); currently pursuing **Foundations of Cybersecurity**
+- 💼 Open to **internships** — cybersecurity, AI/ML, front-end development
 - ⚡ Fun fact: I like turning messy data (and messy resumes) into something clean and structured
 - 📫 Reach me via my [portfolio](https://rameenzia.github.io/Portfolio)
 
 ---
 
 ### 🛠️ Skills
+
+**Security**
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity_Fundamentals-Coursera-8AFF80?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-Linux%20%7C%20Cisco%20%7C%20VMware-blue?style=flat-square)
 
 **Languages**
 
@@ -59,10 +60,6 @@ currently_seeking: Internship opportunities in AI / Front-End / Security
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Security**
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity_Fundamentals-Coursera-informational?style=flat-square)
 
 ---
 
@@ -134,5 +131,5 @@ Dark editorial-themed portfolio site with a lime-green accent, showcasing projec
 ---
 
 <p align="center">
-  <i>💼 Open to internship opportunities in AI, front-end development, and cybersecurity — let's connect!</i>
+  <i>💼 Open to internship opportunities in cybersecurity, AI, and front-end development — let's connect!</i>
 </p>
