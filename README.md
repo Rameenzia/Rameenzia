@@ -2,10 +2,8 @@
   <img src="./banner.png" alt="Rameen banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Rameen 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00000&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;AI+%2F+ML+Learner;Front-End+Developer;Final-Year+CS+Student+%40+FJWU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=000&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;AI+%2F+ML+Learner;Front-End+Developer;Final-Year+CS+Student+%40+FJWU" alt="Typing SVG" />
 </p>
 
 <p align="center">
