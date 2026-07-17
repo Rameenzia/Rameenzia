@@ -2,8 +2,10 @@
   <img src="./banner.png" alt="Rameen banner" width="100%" />
 </p>
 
+<h1 align="center">Hi, I'm Rameen 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=000&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;AI+%2F+ML+Learner;Front-End+Developer;Final-Year+CS+Student+%40+FJWU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8AFF80&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;AI+%2F+ML+Learner;Front-End+Developer;Final-Year+CS+Student+%40+FJWU" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,7 +36,7 @@ currently_seeking: Internship opportunities in Cybersecurity / AI / Front-End
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Tech Stack
 
 **Security**
 
@@ -65,7 +67,7 @@ currently_seeking: Internship opportunities in Cybersecurity / AI / Front-End
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Deployments
 
 **🗣️ [Comparative LLM Sentiment Analysis](#)**
 Benchmarked 5 LLMs (Claude, ChatGPT, Gemini, Perplexity, Mistral) on multilingual Instagram comment sentiment, with formatted comparative reporting.
@@ -102,7 +104,21 @@ Dark editorial-themed portfolio site with a lime-green accent, showcasing projec
 
 ---
 
-### 📊 GitHub Stats
+### 🎓 Core Coursework
+
+| Course | Repository |
+|---|---|
+| Artificial Intelligence | [View](https://github.com/Rameenzia/Artificial-Intelligence) |
+| Object-Oriented Programming | [View](https://github.com/Rameenzia/OOP) |
+| Computer Organization & Assembly Language | [View](https://github.com/Rameenzia/COAL) |
+| Digital Logic Design | [View](https://github.com/Rameenzia/DLD-Digital-Logic-Design-) |
+| Programming Fundamentals | [View](https://github.com/Rameenzia/Programming-Fundamentals) |
+
+**CGPA:** 3.86 / 4.0 · Fatima Jinnah Women University (FJWU), Rawalpindi
+
+---
+
+### 📊 Git Metrics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rameenzia&show_icons=true&theme=tokyonight&hide_border=true" />
