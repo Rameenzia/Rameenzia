@@ -1,22 +1,37 @@
 <h1 align="center">Hi, I'm Rameen 👋</h1>
 
 <p align="center">
-  Final-year CS student exploring AI, front-end development, and cybersecurity
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8AFF80&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Enthusiast;Front-End+Developer;Cybersecurity+Learner;Final-Year+CS+Student+%40+FJWU" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://rameenzia.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://github.com/Rameenzia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rameenzia&style=flat-square&color=8AFF80" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Rameenzia?style=flat-square&color=8AFF80&label=Followers" alt="Followers" />
 </p>
 
 ---
 
 ### 🧭 About Me
 
-- 🎓 Final-year **BS Computer Science** student, graduating 2027
-- 🤖 Interested in **AI/ML**, **front-end web development**, and **cybersecurity**
-- 🌱 Currently building projects with LLMs, MERN stack, and real-time systems
-- 📄 Certified in **AI For Everyone** (DeepLearning.AI, Coursera) and **Cybersecurity Fundamentals**
-- 💼 Actively seeking **internship opportunities** in AI, front-end, and security tracks
+```yaml
+name: Rameen
+role: Final-year BS Computer Science student
+university: Fatima Jinnah Women University (FJWU), Rawalpindi
+graduation: 2027
+focus_areas: [Artificial Intelligence, Front-End Development, Cybersecurity]
+currently_seeking: Internship opportunities in AI / Front-End / Security
+```
+
+- 🔭 Currently working on projects spanning **LLM benchmarking**, **full-stack web apps**, and **real-time systems**
+- 🌱 Deepening my knowledge of **React**, **cybersecurity fundamentals**, and applied **NLP**
+- 📄 Certified in **AI For Everyone** (DeepLearning.AI, Coursera) & **Cybersecurity Fundamentals**
+- 💼 Open to **internships** — AI/ML, front-end development, cybersecurity
+- ⚡ Fun fact: I like turning messy data (and messy resumes) into something clean and structured
 - 📫 Reach me via my [portfolio](https://rameenzia.github.io/Portfolio)
 
 ---
@@ -77,12 +92,14 @@ Dark editorial-themed portfolio site with a lime-green accent, showcasing projec
 
 ### 📚 Other Repositories
 
-- [Artificial-Intelligence](https://github.com/Rameenzia/Artificial-Intelligence) — AI coursework and assignments
-- [OOP](https://github.com/Rameenzia/OOP) — Object-Oriented Programming coursework
-- [COAL](https://github.com/Rameenzia/COAL) — Computer Organization & Assembly Language
-- [DLD (Digital Logic Design)](https://github.com/Rameenzia/DLD-Digital-Logic-Design-) — Digital logic design labs
-- [Programming-Fundamentals](https://github.com/Rameenzia/Programming-Fundamentals) — Intro programming coursework
-- [ICT](https://github.com/Rameenzia/ICT) — ICT project report (Magazine design)
+| Repository | Description |
+|---|---|
+| [Artificial-Intelligence](https://github.com/Rameenzia/Artificial-Intelligence) | AI coursework and assignments |
+| [OOP](https://github.com/Rameenzia/OOP) | Object-Oriented Programming coursework |
+| [COAL](https://github.com/Rameenzia/COAL) | Computer Organization & Assembly Language |
+| [DLD-Digital-Logic-Design-](https://github.com/Rameenzia/DLD-Digital-Logic-Design-) | Digital logic design labs |
+| [Programming-Fundamentals](https://github.com/Rameenzia/Programming-Fundamentals) | Intro programming coursework |
+| [ICT](https://github.com/Rameenzia/ICT) | ICT project report — magazine design |
 
 ---
 
@@ -97,8 +114,25 @@ Dark editorial-themed portfolio site with a lime-green accent, showcasing projec
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rameenzia&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rameenzia&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://rameenzia.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-8AFF80?style=for-the-badge&logo=googlechrome&logoColor=black"></a>
+  <a href="https://github.com/Rameenzia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <sub>Add your LinkedIn / email badge here once you're ready to share them publicly.</sub>
+</p>
+
 ---
 
 <p align="center">
-  <i>Open to internship opportunities in AI, front-end development, and cybersecurity — let's connect!</i>
+  <i>💼 Open to internship opportunities in AI, front-end development, and cybersecurity — let's connect!</i>
 </p>
