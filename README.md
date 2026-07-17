@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Rameen banner" width="100%" />
+  <img src="C:\Users\ramee\Downloads\banner.png" alt="Rameen banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Rameen 👋</h1>
