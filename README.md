@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="./banner.svg" alt="Rameen banner" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Rameen 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;AI+%2F+ML+Learner;Front-End+Developer;Final-Year+CS+Student+%40+FJWU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8AFF80&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;AI+%2F+ML+Learner;Front-End+Developer;Final-Year+CS+Student+%40+FJWU" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -72,6 +76,10 @@ Benchmarked 5 LLMs (Claude, ChatGPT, Gemini, Perplexity, Mistral) on multilingua
 **📥 [Instagram Data Extraction Pipeline](#)**
 Automated scraping pipeline for Instagram Reels and comments, handling cursor-based pagination and hidden-likes edge cases.
 `Python` `Instaloader` `Playwright`
+
+**🎓 [MPhil Coordinator Portal](#)**
+Full-stack capstone project for academic coordination with an integrated Python analytics module.
+`MongoDB` `Express.js` `React` `Node.js` `Python`
 
 **💬 [Real-Time Chat Application](https://github.com/Rameenzia/Real-Time-Chat-Application-using-WebSockets-Redis-Cluster)**
 Scalable real-time messaging app built on a 6-node Redis cluster for pub/sub, containerized with Docker.
