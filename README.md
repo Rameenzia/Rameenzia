@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\ramee\Downloads\banner.png" alt="Rameen banner" width="100%" />
+  <img src="./banner.png" alt="Rameen banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Rameen 👋</h1>
@@ -126,10 +126,11 @@ Dark editorial-themed portfolio site with a lime-green accent, showcasing projec
 <p align="center">
   <a href="https://rameenzia.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-8AFF80?style=for-the-badge&logo=googlechrome&logoColor=black"></a>
   <a href="https://github.com/Rameenzia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:rameenzia509@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <sub>Add your LinkedIn / email badge here once you're ready to share them publicly.</sub>
+  <sub>Add your LinkedIn badge here once you're ready to share it publicly.</sub>
 </p>
 
 ---
