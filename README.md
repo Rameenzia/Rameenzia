@@ -38,30 +38,30 @@ currently_seeking: Internship opportunities in Cybersecurity / AI / Front-End
 
 **Security**
 
-<img src="https://img.shields.io/badge/Cybersecurity_Fundamentals-Coursera-8AFF80?style=flat-square" />
-<img src="https://img.shields.io/badge/Networking-Linux%20%7C%20Cisco%20%7C%20VMware-blue?style=flat-square" />
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity_Fundamentals-Coursera-8AFF80?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-Linux%20%7C%20Cisco%20%7C%20VMware-blue?style=flat-square)
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Front-End**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Tools & Platforms**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
@@ -74,10 +74,6 @@ Benchmarked 5 LLMs (Claude, ChatGPT, Gemini, Perplexity, Mistral) on multilingua
 **📥 [Instagram Data Extraction Pipeline](#)**
 Automated scraping pipeline for Instagram Reels and comments, handling cursor-based pagination and hidden-likes edge cases.
 `Python` `Instaloader` `Playwright`
-
-**🎓 [MPhil Coordinator Portal](#)**
-Full-stack capstone project for academic coordination with an integrated Python analytics module.
-`MongoDB` `Express.js` `React` `Node.js` `Python`
 
 **💬 [Real-Time Chat Application](https://github.com/Rameenzia/Real-Time-Chat-Application-using-WebSockets-Redis-Cluster)**
 Scalable real-time messaging app built on a 6-node Redis cluster for pub/sub, containerized with Docker.
